@@ -4,6 +4,8 @@
 
 <p align="center">
   <b><i>Front End: Javascipt, HTML, CSS</i></b>
+  
+<p align="center">  
   <b><i>Back-End:  Database hosted by Firebase</i></b>
 
 <h2> About The Game</h2>
